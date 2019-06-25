@@ -1,5 +1,3 @@
-# usefulRepos
-
 ## Starter Projects / Boilerplates
 
 [Jonas HTML CSS SASS Boiler](https://github.com/jonasschmedtmann/advanced-css-course/tree/master/Nexter/starter)  
