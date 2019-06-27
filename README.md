@@ -1,6 +1,6 @@
 ## Starter Projects / Boilerplates
 
-[Jonas HTML CSS SASS Boiler](https://github.com/jonasschmedtmann/advanced-css-course/tree/master/Nexter/starter) 
+[Jonas HTML CSS SASS Boiler](https://github.com/jonasschmedtmann/advanced-css-course/tree/master/Nexter/starter)  
 [TailwindCSS](https://github.com/adamwathan/workcation-splash-page)    
 [React Starter Kit](https://github.com/kriasoft/react-starter-kit)  
 [React Firebase Starter](https://github.com/kriasoft/react-firebase-starter)  
