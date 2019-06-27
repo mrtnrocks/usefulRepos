@@ -1,7 +1,7 @@
 ## Starter Projects / Boilerplates
 
 [Jonas HTML CSS SASS Boiler](https://github.com/jonasschmedtmann/advanced-css-course/tree/master/Nexter/starter) 
-[TailwindCSS](https://github.com/adamwathan/workcation-splash-page)  
+[TailwindCSS](https://github.com/adamwathan/workcation-splash-page)    
 [React Starter Kit](https://github.com/kriasoft/react-starter-kit)  
 [React Firebase Starter](https://github.com/kriasoft/react-firebase-starter)  
 [JAMstack Hackathon Starter](https://github.com/sw-yx/jamstack-hackathon-starter)  
@@ -17,7 +17,7 @@
 [nextjs.org](https://github.com/zeit/next-site)
 [getstation.com](https://github.com/getstation/website-v3)  
 [fivepointseven.com](https://github.com/rdev/fivepointseven)  
-[serverless.com](https://github.com/serverless/site/)
+[serverless.com](https://github.com/serverless/site/)  
 [Netlify Landingpage Mailchimp](https://github.com/tobilg/netlify-functions-landingpage)
 
 
