@@ -19,7 +19,8 @@
 [fivepointseven.com](https://github.com/rdev/fivepointseven)  
 [serverless.com](https://github.com/serverless/site/)  
 [Page Transition React Travel App](https://github.com/sw-yx/page-transitions-react-travelapp)  
-[Netlify Landingpage Mailchimp](https://github.com/tobilg/netlify-functions-landingpage)
+[Netlify Landingpage Mailchimp](https://github.com/tobilg/netlify-functions-landingpage)  
+[Agency Significa - Gatsby Site](https://github.com/Significa/significa.co)
 
 
 ## Fullstack
