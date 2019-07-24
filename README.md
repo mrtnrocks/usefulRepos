@@ -10,7 +10,8 @@
 
 ## Frontend
 
-[twizzy.app](https://github.com/kitze/twizzy-landing)  
+[twizzy.app](https://github.com/kitze/twizzy-landing) 
+[LekoArt Portfolio Site](https://github.com/LekoArts/portfolio)  
 [narative.co](https://github.com/narative/narative.co)  
 [syntax.fm](https://github.com/wesbos/Syntax/)  
 [arkitdev.co](https://github.com/kuldar/arkitdev)  
